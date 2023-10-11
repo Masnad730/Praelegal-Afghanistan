@@ -1,0 +1,17 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/hello": "pages/api/hello.js",
+  "/contact-us": "pages/contact-us.html",
+  "/events": "pages/events.html",
+  "/events/praelegal-second-general-global-meeting-2014": "pages/events/praelegal-second-general-global-meeting-2014.html",
+  "/events/praelegal-uzbekistan-conference-2019": "pages/events/praelegal-uzbekistan-conference-2019.html",
+  "/home": "pages/home.html",
+  "/": "pages/index.html",
+  "/practices/[slug]": "pages/practices/[slug].js",
+  "/practices": "pages/practices.js",
+  "/team": "pages/team.html",
+  "/why-us": "pages/why-us.js",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}

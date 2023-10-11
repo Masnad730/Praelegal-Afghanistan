@@ -1,0 +1,106 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/dBcQx5FbY7intSV_bnxFU/_buildManifest.js",
+    "static/dBcQx5FbY7intSV_bnxFU/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-f47d69457824065d04c3.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-5a3d081eb9dcc5792d84.js",
+      "static/chunks/pages/index-470a9dbc686141740b57.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-f47d69457824065d04c3.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-5a3d081eb9dcc5792d84.js",
+      "static/css/0fe059617892493feda6.css",
+      "static/chunks/pages/_app-809e98ecf1a3d88f021b.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-f47d69457824065d04c3.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-5a3d081eb9dcc5792d84.js",
+      "static/chunks/pages/_error-737a04e9a0da63c9d162.js"
+    ],
+    "/contact-us": [
+      "static/chunks/webpack-f47d69457824065d04c3.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-5a3d081eb9dcc5792d84.js",
+      "static/chunks/123-20fe996211c170e8d400.js",
+      "static/chunks/732-f89c1c003a6cd543232f.js",
+      "static/chunks/324-8f2dded7fd7b042de2ed.js",
+      "static/chunks/pages/contact-us-2b65ea45d87405981cf6.js"
+    ],
+    "/events": [
+      "static/chunks/webpack-f47d69457824065d04c3.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-5a3d081eb9dcc5792d84.js",
+      "static/chunks/123-20fe996211c170e8d400.js",
+      "static/chunks/324-8f2dded7fd7b042de2ed.js",
+      "static/chunks/pages/events-3c522535b8409b2119f3.js"
+    ],
+    "/events/praelegal-second-general-global-meeting-2014": [
+      "static/chunks/webpack-f47d69457824065d04c3.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-5a3d081eb9dcc5792d84.js",
+      "static/chunks/123-20fe996211c170e8d400.js",
+      "static/chunks/324-8f2dded7fd7b042de2ed.js",
+      "static/chunks/pages/events/praelegal-second-general-global-meeting-2014-a98ff2ffae47cf40c898.js"
+    ],
+    "/events/praelegal-uzbekistan-conference-2019": [
+      "static/chunks/webpack-f47d69457824065d04c3.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-5a3d081eb9dcc5792d84.js",
+      "static/chunks/123-20fe996211c170e8d400.js",
+      "static/chunks/324-8f2dded7fd7b042de2ed.js",
+      "static/chunks/pages/events/praelegal-uzbekistan-conference-2019-8a062bca7baeae31939d.js"
+    ],
+    "/home": [
+      "static/chunks/webpack-f47d69457824065d04c3.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-5a3d081eb9dcc5792d84.js",
+      "static/chunks/123-20fe996211c170e8d400.js",
+      "static/chunks/324-8f2dded7fd7b042de2ed.js",
+      "static/chunks/pages/home-dfac4c38696ad94a5267.js"
+    ],
+    "/practices": [
+      "static/chunks/webpack-f47d69457824065d04c3.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-5a3d081eb9dcc5792d84.js",
+      "static/chunks/123-20fe996211c170e8d400.js",
+      "static/chunks/324-8f2dded7fd7b042de2ed.js",
+      "static/chunks/pages/practices-1b249ef1994585f0aa13.js"
+    ],
+    "/practices/[slug]": [
+      "static/chunks/webpack-f47d69457824065d04c3.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-5a3d081eb9dcc5792d84.js",
+      "static/chunks/123-20fe996211c170e8d400.js",
+      "static/chunks/324-8f2dded7fd7b042de2ed.js",
+      "static/chunks/pages/practices/[slug]-aac9fb4e1bfc3cad3b4e.js"
+    ],
+    "/team": [
+      "static/chunks/webpack-f47d69457824065d04c3.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-5a3d081eb9dcc5792d84.js",
+      "static/chunks/123-20fe996211c170e8d400.js",
+      "static/chunks/324-8f2dded7fd7b042de2ed.js",
+      "static/chunks/pages/team-49e735a538fbc829d360.js"
+    ],
+    "/why-us": [
+      "static/chunks/webpack-f47d69457824065d04c3.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-5a3d081eb9dcc5792d84.js",
+      "static/chunks/123-20fe996211c170e8d400.js",
+      "static/chunks/324-8f2dded7fd7b042de2ed.js",
+      "static/chunks/pages/why-us-d8d8af2e6f0467eda95e.js"
+    ]
+  },
+  "ampFirstPages": []
+}
